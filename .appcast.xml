@@ -7,5 +7,8 @@
     <item>
       <enclosure url="https://github.com/phrase//phraseapp-sketch/releases/download/1.0.1/phraseapp-plugin.sketchplugin.zip" sparkle:version="1.0.1"/>
     </item>
+    <item>
+      <enclosure url="https://github.com/phrase//phraseapp-sketch/releases/download/1.0.2/phraseapp-plugin.sketchplugin.zip" sparkle:version="1.0.2"/>
+    </item>
   </channel>
 </rss>
