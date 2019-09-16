@@ -20,5 +20,10 @@
       <sparkle:releaseNotesLink> https://github.com/phrase/phraseapp-sketch/releases/tag/1.1.0 </sparkle:releaseNotesLink>
       <enclosure url="https://github.com/phrase//phraseapp-sketch/releases/download/1.1.0/phraseapp-plugin.sketchplugin.zip" sparkle:version="1.1.0"/>
     </item>
+    <item>
+      <title>Version 1.1.1</title>
+      <sparkle:releaseNotesLink> https://github.com/phrase/phraseapp-sketch/releases/tag/1.1.1 </sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/phrase//phraseapp-sketch/releases/download/1.1.1/phraseapp-plugin.sketchplugin.zip" sparkle:version="1.1.1"/>
+    </item>
   </channel>
 </rss>
