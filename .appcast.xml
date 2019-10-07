@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
+    <title>Phrase Sketch Plugin</title>
+    <link>https://raw.githubusercontent.com/phrase/phraseapp-sketch/master/.appcast.xml</link>
+    <description>Sync the content directly from within Sketch designs to your Phrase project. Translate content in Phrase right away and and sync it back to Sketch once it's completed.</description>
+    <language>en</language>
     <item>
       <enclosure url="https://github.com/phrase/sketch-plugin/releases/download/1.0.0/phraseapp-plugin.sketchplugin.zip" sparkle:version="1.0.0"/>
     </item>
@@ -29,6 +33,11 @@
       <title>Version 1.1.2</title>
       <sparkle:releaseNotesLink> https://github.com/phrase/phraseapp-sketch/releases/tag/1.1.2 </sparkle:releaseNotesLink>
       <enclosure url="https://github.com/phrase/phraseapp-sketch/releases/download/1.1.2/phraseapp-plugin.sketchplugin.zip" sparkle:version="1.1.2"/>
+    </item>
+    <item>
+      <title>Version 1.1.3</title>
+      <sparkle:releaseNotesLink> https://github.com/phrase/phraseapp-sketch/releases/tag/1.1.3 </sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/phrase/phraseapp-sketch/releases/download/1.1.3/phraseapp-plugin.sketchplugin.zip" sparkle:version="1.1.3"/>
     </item>
   </channel>
 </rss>
