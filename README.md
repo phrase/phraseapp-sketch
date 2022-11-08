@@ -6,7 +6,7 @@ Collaborate efficiently at an early stage of development to avoid surprises in y
 
 ## Documentation
 
-https://help.phrase.com/articles/3074457-phraseapp-sketch-plugin
+https://support.phrase.com/hc/en-us/articles/5784096009116-Sketch-Strings-
 
 ## Get help / support
 
