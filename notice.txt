@@ -1,0 +1,30 @@
+NOTICE
+
+This product includes third party software developed by various authors.
+
+---
+
+DEPENDENCIES AND LICENSE INFORMATION:
+
+1. @skpm/fs
+   - Version: 0.2.6
+   - License: MIT
+   - Author(s): Mathieu Dutour
+   - URL: https://github.com/skpm/fs#readme
+   - License text: See LICENSE file within the included source code of the dependency
+
+2. country-flag-emoji
+   - Version: 1.0.3
+   - License: MIT
+   - Author(s): Risan Bagja Pradana
+   - URL: https://github.com/risan/country-flag-emoji#readme
+   - License text: See LICENSE file within the included source code of the dependency
+
+3. xmldom
+   - Version: 0.5.0
+   - License: MIT
+   - Author(s): jindw
+   - URL: https://github.com/xmldom/xmldom
+   - License text: See LICENSE file within the included source code of the dependency
+
+This NOTICE file is for informational purposes only and does not modify the license terms of any referenced software.
